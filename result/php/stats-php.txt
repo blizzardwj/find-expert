@@ -1,0 +1,557 @@
+
+graph nodes 213709, edges 458006
+
+# of connected component sizes 10
+size 1, number of components 7775
+size 2, number of components 7527
+size 3, number of components 746
+size 4, number of components 138
+size 5, number of components 29
+size 6, number of components 13
+size 7, number of components 2
+size 8, number of components 1
+size 9, number of components 1
+size 187836, number of components 1
+
+max wcc nodes 187836, edges 439869
+
+# of different in-degrees 334
+in-degree 0, number of nodes 117774
+in-degree 1, number of nodes 57120
+in-degree 2, number of nodes 13236
+in-degree 3, number of nodes 6394
+in-degree 4, number of nodes 3894
+in-degree 5, number of nodes 2653
+in-degree 6, number of nodes 1848
+in-degree 7, number of nodes 1413
+in-degree 8, number of nodes 1107
+in-degree 9, number of nodes 870
+in-degree 10, number of nodes 751
+in-degree 11, number of nodes 592
+in-degree 12, number of nodes 468
+in-degree 13, number of nodes 441
+in-degree 14, number of nodes 375
+in-degree 15, number of nodes 322
+in-degree 16, number of nodes 325
+in-degree 17, number of nodes 212
+in-degree 18, number of nodes 227
+in-degree 19, number of nodes 216
+in-degree 20, number of nodes 170
+in-degree 21, number of nodes 184
+in-degree 22, number of nodes 170
+in-degree 23, number of nodes 152
+in-degree 24, number of nodes 151
+in-degree 25, number of nodes 128
+in-degree 26, number of nodes 101
+in-degree 27, number of nodes 105
+in-degree 28, number of nodes 84
+in-degree 29, number of nodes 70
+in-degree 30, number of nodes 80
+in-degree 31, number of nodes 82
+in-degree 32, number of nodes 84
+in-degree 33, number of nodes 54
+in-degree 34, number of nodes 59
+in-degree 35, number of nodes 64
+in-degree 36, number of nodes 52
+in-degree 37, number of nodes 60
+in-degree 38, number of nodes 54
+in-degree 39, number of nodes 54
+in-degree 40, number of nodes 44
+in-degree 41, number of nodes 41
+in-degree 42, number of nodes 34
+in-degree 43, number of nodes 41
+in-degree 44, number of nodes 41
+in-degree 45, number of nodes 33
+in-degree 46, number of nodes 34
+in-degree 47, number of nodes 26
+in-degree 48, number of nodes 28
+in-degree 49, number of nodes 32
+in-degree 50, number of nodes 34
+in-degree 51, number of nodes 28
+in-degree 52, number of nodes 25
+in-degree 53, number of nodes 28
+in-degree 54, number of nodes 28
+in-degree 55, number of nodes 21
+in-degree 56, number of nodes 21
+in-degree 57, number of nodes 28
+in-degree 58, number of nodes 19
+in-degree 59, number of nodes 27
+in-degree 60, number of nodes 17
+in-degree 61, number of nodes 22
+in-degree 62, number of nodes 22
+in-degree 63, number of nodes 13
+in-degree 64, number of nodes 18
+in-degree 65, number of nodes 15
+in-degree 66, number of nodes 17
+in-degree 67, number of nodes 17
+in-degree 68, number of nodes 14
+in-degree 69, number of nodes 9
+in-degree 70, number of nodes 16
+in-degree 71, number of nodes 12
+in-degree 72, number of nodes 16
+in-degree 73, number of nodes 12
+in-degree 74, number of nodes 3
+in-degree 75, number of nodes 9
+in-degree 76, number of nodes 9
+in-degree 77, number of nodes 11
+in-degree 78, number of nodes 8
+in-degree 79, number of nodes 13
+in-degree 80, number of nodes 7
+in-degree 81, number of nodes 11
+in-degree 82, number of nodes 6
+in-degree 83, number of nodes 13
+in-degree 84, number of nodes 8
+in-degree 85, number of nodes 7
+in-degree 86, number of nodes 8
+in-degree 87, number of nodes 7
+in-degree 88, number of nodes 7
+in-degree 89, number of nodes 7
+in-degree 90, number of nodes 6
+in-degree 91, number of nodes 7
+in-degree 92, number of nodes 8
+in-degree 93, number of nodes 3
+in-degree 94, number of nodes 13
+in-degree 95, number of nodes 2
+in-degree 96, number of nodes 11
+in-degree 97, number of nodes 6
+in-degree 98, number of nodes 4
+in-degree 99, number of nodes 8
+in-degree 100, number of nodes 11
+in-degree 101, number of nodes 6
+in-degree 102, number of nodes 9
+in-degree 103, number of nodes 5
+in-degree 104, number of nodes 10
+in-degree 105, number of nodes 7
+in-degree 106, number of nodes 4
+in-degree 107, number of nodes 4
+in-degree 108, number of nodes 5
+in-degree 109, number of nodes 8
+in-degree 110, number of nodes 1
+in-degree 111, number of nodes 5
+in-degree 112, number of nodes 3
+in-degree 113, number of nodes 5
+in-degree 114, number of nodes 3
+in-degree 115, number of nodes 3
+in-degree 116, number of nodes 6
+in-degree 117, number of nodes 8
+in-degree 118, number of nodes 5
+in-degree 119, number of nodes 2
+in-degree 120, number of nodes 3
+in-degree 121, number of nodes 3
+in-degree 122, number of nodes 4
+in-degree 123, number of nodes 7
+in-degree 124, number of nodes 7
+in-degree 125, number of nodes 3
+in-degree 127, number of nodes 1
+in-degree 128, number of nodes 3
+in-degree 129, number of nodes 3
+in-degree 131, number of nodes 1
+in-degree 132, number of nodes 3
+in-degree 133, number of nodes 2
+in-degree 134, number of nodes 5
+in-degree 135, number of nodes 1
+in-degree 136, number of nodes 6
+in-degree 137, number of nodes 5
+in-degree 138, number of nodes 5
+in-degree 139, number of nodes 2
+in-degree 140, number of nodes 3
+in-degree 141, number of nodes 4
+in-degree 142, number of nodes 7
+in-degree 143, number of nodes 1
+in-degree 144, number of nodes 5
+in-degree 145, number of nodes 5
+in-degree 146, number of nodes 2
+in-degree 147, number of nodes 1
+in-degree 148, number of nodes 2
+in-degree 149, number of nodes 6
+in-degree 150, number of nodes 3
+in-degree 151, number of nodes 4
+in-degree 152, number of nodes 1
+in-degree 153, number of nodes 2
+in-degree 154, number of nodes 1
+in-degree 155, number of nodes 5
+in-degree 156, number of nodes 1
+in-degree 157, number of nodes 2
+in-degree 158, number of nodes 5
+in-degree 159, number of nodes 2
+in-degree 160, number of nodes 2
+in-degree 161, number of nodes 1
+in-degree 162, number of nodes 1
+in-degree 163, number of nodes 2
+in-degree 165, number of nodes 2
+in-degree 166, number of nodes 2
+in-degree 168, number of nodes 4
+in-degree 170, number of nodes 3
+in-degree 171, number of nodes 1
+in-degree 172, number of nodes 1
+in-degree 175, number of nodes 2
+in-degree 176, number of nodes 2
+in-degree 177, number of nodes 1
+in-degree 178, number of nodes 2
+in-degree 179, number of nodes 1
+in-degree 180, number of nodes 3
+in-degree 181, number of nodes 2
+in-degree 182, number of nodes 3
+in-degree 183, number of nodes 1
+in-degree 184, number of nodes 3
+in-degree 185, number of nodes 3
+in-degree 187, number of nodes 1
+in-degree 188, number of nodes 4
+in-degree 189, number of nodes 4
+in-degree 190, number of nodes 3
+in-degree 193, number of nodes 1
+in-degree 194, number of nodes 2
+in-degree 195, number of nodes 1
+in-degree 196, number of nodes 2
+in-degree 197, number of nodes 1
+in-degree 198, number of nodes 1
+in-degree 199, number of nodes 1
+in-degree 200, number of nodes 2
+in-degree 204, number of nodes 1
+in-degree 205, number of nodes 1
+in-degree 206, number of nodes 1
+in-degree 207, number of nodes 1
+in-degree 208, number of nodes 2
+in-degree 209, number of nodes 1
+in-degree 211, number of nodes 1
+in-degree 212, number of nodes 1
+in-degree 213, number of nodes 1
+in-degree 216, number of nodes 6
+in-degree 217, number of nodes 1
+in-degree 219, number of nodes 1
+in-degree 220, number of nodes 1
+in-degree 221, number of nodes 3
+in-degree 222, number of nodes 2
+in-degree 225, number of nodes 1
+in-degree 226, number of nodes 1
+in-degree 227, number of nodes 2
+in-degree 228, number of nodes 1
+in-degree 229, number of nodes 1
+in-degree 230, number of nodes 1
+in-degree 232, number of nodes 2
+in-degree 233, number of nodes 3
+in-degree 234, number of nodes 1
+in-degree 235, number of nodes 2
+in-degree 236, number of nodes 2
+in-degree 238, number of nodes 1
+in-degree 240, number of nodes 2
+in-degree 241, number of nodes 1
+in-degree 242, number of nodes 3
+in-degree 243, number of nodes 1
+in-degree 244, number of nodes 2
+in-degree 245, number of nodes 2
+in-degree 246, number of nodes 1
+in-degree 249, number of nodes 2
+in-degree 251, number of nodes 2
+in-degree 253, number of nodes 1
+in-degree 255, number of nodes 1
+in-degree 257, number of nodes 1
+in-degree 258, number of nodes 1
+in-degree 260, number of nodes 1
+in-degree 263, number of nodes 1
+in-degree 264, number of nodes 1
+in-degree 268, number of nodes 1
+in-degree 272, number of nodes 2
+in-degree 277, number of nodes 1
+in-degree 282, number of nodes 2
+in-degree 285, number of nodes 1
+in-degree 286, number of nodes 1
+in-degree 287, number of nodes 2
+in-degree 288, number of nodes 1
+in-degree 296, number of nodes 1
+in-degree 298, number of nodes 2
+in-degree 299, number of nodes 1
+in-degree 302, number of nodes 1
+in-degree 304, number of nodes 1
+in-degree 305, number of nodes 3
+in-degree 306, number of nodes 1
+in-degree 312, number of nodes 1
+in-degree 313, number of nodes 1
+in-degree 314, number of nodes 1
+in-degree 316, number of nodes 1
+in-degree 319, number of nodes 1
+in-degree 325, number of nodes 1
+in-degree 328, number of nodes 1
+in-degree 329, number of nodes 1
+in-degree 332, number of nodes 1
+in-degree 334, number of nodes 2
+in-degree 346, number of nodes 1
+in-degree 349, number of nodes 1
+in-degree 353, number of nodes 2
+in-degree 355, number of nodes 2
+in-degree 356, number of nodes 1
+in-degree 357, number of nodes 1
+in-degree 358, number of nodes 1
+in-degree 363, number of nodes 1
+in-degree 366, number of nodes 1
+in-degree 372, number of nodes 1
+in-degree 379, number of nodes 1
+in-degree 382, number of nodes 1
+in-degree 387, number of nodes 2
+in-degree 397, number of nodes 1
+in-degree 400, number of nodes 1
+in-degree 403, number of nodes 1
+in-degree 408, number of nodes 1
+in-degree 411, number of nodes 1
+in-degree 422, number of nodes 1
+in-degree 424, number of nodes 1
+in-degree 437, number of nodes 1
+in-degree 442, number of nodes 1
+in-degree 443, number of nodes 2
+in-degree 451, number of nodes 1
+in-degree 452, number of nodes 1
+in-degree 456, number of nodes 1
+in-degree 459, number of nodes 1
+in-degree 464, number of nodes 1
+in-degree 467, number of nodes 1
+in-degree 470, number of nodes 1
+in-degree 472, number of nodes 1
+in-degree 475, number of nodes 1
+in-degree 481, number of nodes 1
+in-degree 482, number of nodes 1
+in-degree 490, number of nodes 1
+in-degree 507, number of nodes 1
+in-degree 510, number of nodes 1
+in-degree 515, number of nodes 1
+in-degree 524, number of nodes 1
+in-degree 536, number of nodes 1
+in-degree 544, number of nodes 1
+in-degree 546, number of nodes 1
+in-degree 559, number of nodes 1
+in-degree 599, number of nodes 1
+in-degree 619, number of nodes 1
+in-degree 622, number of nodes 1
+in-degree 626, number of nodes 1
+in-degree 649, number of nodes 1
+in-degree 672, number of nodes 1
+in-degree 676, number of nodes 1
+in-degree 693, number of nodes 2
+in-degree 720, number of nodes 1
+in-degree 742, number of nodes 1
+in-degree 765, number of nodes 1
+in-degree 791, number of nodes 1
+in-degree 899, number of nodes 1
+in-degree 932, number of nodes 1
+in-degree 948, number of nodes 1
+in-degree 960, number of nodes 1
+in-degree 1006, number of nodes 1
+in-degree 1014, number of nodes 1
+in-degree 1051, number of nodes 1
+in-degree 1059, number of nodes 1
+in-degree 1102, number of nodes 1
+in-degree 1158, number of nodes 1
+in-degree 1218, number of nodes 1
+in-degree 1219, number of nodes 1
+in-degree 1331, number of nodes 1
+in-degree 1407, number of nodes 1
+in-degree 1411, number of nodes 1
+in-degree 1488, number of nodes 1
+in-degree 1792, number of nodes 1
+in-degree 1982, number of nodes 1
+in-degree 2332, number of nodes 1
+in-degree 2406, number of nodes 1
+
+# of different out-degrees 143
+out-degree 0, number of nodes 51486
+out-degree 1, number of nodes 92685
+out-degree 2, number of nodes 27994
+out-degree 3, number of nodes 13229
+out-degree 4, number of nodes 7763
+out-degree 5, number of nodes 4884
+out-degree 6, number of nodes 3090
+out-degree 7, number of nodes 2269
+out-degree 8, number of nodes 1679
+out-degree 9, number of nodes 1309
+out-degree 10, number of nodes 999
+out-degree 11, number of nodes 792
+out-degree 12, number of nodes 656
+out-degree 13, number of nodes 531
+out-degree 14, number of nodes 488
+out-degree 15, number of nodes 388
+out-degree 16, number of nodes 338
+out-degree 17, number of nodes 267
+out-degree 18, number of nodes 256
+out-degree 19, number of nodes 222
+out-degree 20, number of nodes 177
+out-degree 21, number of nodes 178
+out-degree 22, number of nodes 148
+out-degree 23, number of nodes 139
+out-degree 24, number of nodes 111
+out-degree 25, number of nodes 123
+out-degree 26, number of nodes 106
+out-degree 27, number of nodes 77
+out-degree 28, number of nodes 79
+out-degree 29, number of nodes 77
+out-degree 30, number of nodes 58
+out-degree 31, number of nodes 65
+out-degree 32, number of nodes 70
+out-degree 33, number of nodes 53
+out-degree 34, number of nodes 59
+out-degree 35, number of nodes 39
+out-degree 36, number of nodes 42
+out-degree 37, number of nodes 48
+out-degree 38, number of nodes 36
+out-degree 39, number of nodes 32
+out-degree 40, number of nodes 33
+out-degree 41, number of nodes 38
+out-degree 42, number of nodes 25
+out-degree 43, number of nodes 29
+out-degree 44, number of nodes 22
+out-degree 45, number of nodes 16
+out-degree 46, number of nodes 24
+out-degree 47, number of nodes 21
+out-degree 48, number of nodes 21
+out-degree 49, number of nodes 15
+out-degree 50, number of nodes 15
+out-degree 51, number of nodes 20
+out-degree 52, number of nodes 16
+out-degree 53, number of nodes 21
+out-degree 54, number of nodes 15
+out-degree 55, number of nodes 11
+out-degree 56, number of nodes 15
+out-degree 57, number of nodes 17
+out-degree 58, number of nodes 8
+out-degree 59, number of nodes 16
+out-degree 60, number of nodes 12
+out-degree 61, number of nodes 7
+out-degree 62, number of nodes 10
+out-degree 63, number of nodes 5
+out-degree 64, number of nodes 11
+out-degree 65, number of nodes 11
+out-degree 66, number of nodes 5
+out-degree 67, number of nodes 6
+out-degree 68, number of nodes 5
+out-degree 69, number of nodes 4
+out-degree 70, number of nodes 8
+out-degree 71, number of nodes 7
+out-degree 72, number of nodes 6
+out-degree 73, number of nodes 4
+out-degree 74, number of nodes 6
+out-degree 75, number of nodes 5
+out-degree 76, number of nodes 2
+out-degree 77, number of nodes 4
+out-degree 78, number of nodes 5
+out-degree 79, number of nodes 4
+out-degree 80, number of nodes 4
+out-degree 81, number of nodes 2
+out-degree 82, number of nodes 4
+out-degree 83, number of nodes 6
+out-degree 84, number of nodes 2
+out-degree 85, number of nodes 8
+out-degree 86, number of nodes 3
+out-degree 87, number of nodes 2
+out-degree 88, number of nodes 8
+out-degree 89, number of nodes 4
+out-degree 90, number of nodes 2
+out-degree 91, number of nodes 4
+out-degree 92, number of nodes 5
+out-degree 93, number of nodes 1
+out-degree 94, number of nodes 4
+out-degree 95, number of nodes 4
+out-degree 96, number of nodes 4
+out-degree 97, number of nodes 3
+out-degree 98, number of nodes 1
+out-degree 100, number of nodes 3
+out-degree 101, number of nodes 3
+out-degree 103, number of nodes 2
+out-degree 105, number of nodes 3
+out-degree 106, number of nodes 1
+out-degree 107, number of nodes 1
+out-degree 108, number of nodes 6
+out-degree 109, number of nodes 4
+out-degree 110, number of nodes 1
+out-degree 112, number of nodes 1
+out-degree 113, number of nodes 3
+out-degree 116, number of nodes 2
+out-degree 117, number of nodes 2
+out-degree 118, number of nodes 1
+out-degree 120, number of nodes 2
+out-degree 121, number of nodes 2
+out-degree 122, number of nodes 1
+out-degree 124, number of nodes 2
+out-degree 125, number of nodes 2
+out-degree 126, number of nodes 2
+out-degree 127, number of nodes 1
+out-degree 130, number of nodes 2
+out-degree 132, number of nodes 1
+out-degree 138, number of nodes 2
+out-degree 139, number of nodes 1
+out-degree 140, number of nodes 1
+out-degree 143, number of nodes 1
+out-degree 145, number of nodes 1
+out-degree 150, number of nodes 1
+out-degree 164, number of nodes 1
+out-degree 165, number of nodes 1
+out-degree 168, number of nodes 1
+out-degree 178, number of nodes 1
+out-degree 182, number of nodes 1
+out-degree 186, number of nodes 1
+out-degree 189, number of nodes 1
+out-degree 198, number of nodes 1
+out-degree 205, number of nodes 1
+out-degree 208, number of nodes 1
+out-degree 209, number of nodes 1
+out-degree 255, number of nodes 1
+out-degree 274, number of nodes 1
+out-degree 290, number of nodes 2
+out-degree 341, number of nodes 1
+
+top 10 users by InDegree
+id  118068, InDegree 2406
+id     476, InDegree 2332
+id 1491895, InDegree 1982
+id  548225, InDegree 1792
+id  367456, InDegree 1488
+id  250259, InDegree 1411
+id  324584, InDegree 1407
+id  187606, InDegree 1331
+id  285587, InDegree 1219
+id 1415724, InDegree 1218
+
+top 10 users by OutDegree
+id  143030, InDegree 341
+id  376947, InDegree 290
+id  807325, InDegree 290
+id  188962, InDegree 274
+id  413225, InDegree 255
+id  642022, InDegree 209
+id  719427, InDegree 208
+id   51649, InDegree 205
+id  583916, InDegree 198
+id  267304, InDegree 189
+
+top 10 experts by PageRank
+id     476, pagerank 0.005229
+id  127724, pagerank 0.003880
+id  283366, pagerank 0.003392
+id  367456, pagerank 0.003020
+id  324584, pagerank 0.002767
+id  229088, pagerank 0.002595
+id    4833, pagerank 0.002585
+id  107152, pagerank 0.002498
+id 2153758, pagerank 0.002228
+id  135594, pagerank 0.002194
+
+top 10 experts by Hits
+id  118068, authority rank 0.407477
+id     476, authority rank 0.404594
+id  187606, authority rank 0.233471
+id  367456, authority rank 0.194231
+id  208809, authority rank 0.160362
+id  285587, authority rank 0.156056
+id  541091, authority rank 0.155135
+id  138475, authority rank 0.148726
+id   50079, authority rank 0.142296
+id  324584, authority rank 0.139203
+
+top 10 learners by Hits
+id  376947, hub rank 0.091256
+id  807325, hub rank 0.089120
+id  413225, hub rank 0.086301
+id  143030, hub rank 0.084599
+id  237681, hub rank 0.068370
+id  267304, hub rank 0.067830
+id  533617, hub rank 0.062867
+id  188962, hub rank 0.062170
+id  642022, hub rank 0.058285
+id  535967, hub rank 0.057154
